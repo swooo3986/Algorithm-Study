@@ -18,13 +18,14 @@
 | 하루 평균 풀이    | 0 → 시작!     | 5~7문제         |
 
 ### 폴더 구조
-
+```plaintext
 Algorithm-Study/
 ├ BOJ/              # 백준 문제 (문제번호-제목 폴더)
 ├ Programmers/      # 프로그래머스
 ├ LeetCode/         # 리트코드 (영어 풀이도 병행)
 ├ Codeforces/       # 코드포스 대회 코드
 └ Study-Notes/      # 개념 정리 (DFS, DP, 세그먼트 트리 등)
+```
 
 
 ### 주간 목표
