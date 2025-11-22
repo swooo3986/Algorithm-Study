@@ -4,9 +4,10 @@
 2025년 11월 23일 시작 → 2026년 플래티넘 달성 목표
 
 [![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=swoo3986)](https://solved.ac/swoo3986/)
-<--
+<!--
 [![mazandi 미니 배지](https://mazandi.herokuapp.com/api/mini/?boj=swoo3986)](https://solved.ac/swoo3986/)
 -->
+
 
 ### 현재 상태 (2025.11.23 기준)
 | 항목              | 수치          | 목표            |
